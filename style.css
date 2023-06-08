@@ -1,0 +1,8 @@
+#main{
+  margin: 0;
+  height: 100%;
+}
+#img-div{
+  display: flex;
+  justify-content: center;
+}
